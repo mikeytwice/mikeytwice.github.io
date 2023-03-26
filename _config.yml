@@ -31,7 +31,7 @@ url: https://mikeytwice.github.io # the base hostname & protocol for your site, 
 github_username:  mikeytwice
 
 # Build settings
-remote_theme: Sidey
+remote_theme: SIDEY
 plugins:
   - jekyll-feed
 
